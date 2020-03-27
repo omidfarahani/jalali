@@ -1,5 +1,5 @@
 {
-    "name": "morilog/jalali",
+    "name": "omidfarahani/jalali",
     "description": "This Package helps developers to easily work with Jalali (Shamsi or Iranian) dates in PHP applications, based on Jalali (Shamsi) DateTime class.",
     "license": "MIT",
     "type": "library",
@@ -25,10 +25,7 @@
     "autoload": {
         "psr-4": {
             "Morilog\\Jalali\\": "src"
-        },
-        "files": [
-            "src/helpers.php"
-        ]
+        }
     },
     "autoload-dev": {
         "psr-4": {
